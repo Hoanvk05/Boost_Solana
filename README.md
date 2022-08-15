@@ -5,3 +5,4 @@ Boost is a Solana-based platform that allows people to solve puzzles in order to
 
 Boost running both Mobile App (Android/IOS)
 
+Boost using dual token system for users to mint NFT & earn tokens 
