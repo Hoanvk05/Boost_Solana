@@ -1,0 +1,15 @@
+{
+    "name": "BOOST NFT Collection",
+    "symbol": "BOOST",
+    "description": "NFTs from BOOST Collection",
+    "image": "collection.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "collection.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }

@@ -1,0 +1,25 @@
+{
+  "Items": [
+    {
+      "id": 1,
+      "name": "Item 1",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnN1Ih-hpZx8BHwuVGDztKdArSXT_zMcNHig&usqp=CAU",
+      "desc": "Description 1",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Item 2",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnN1Ih-hpZx8BHwuVGDztKdArSXT_zMcNHig&usqp=CAU",
+      "desc": "Description 2",
+      "price": 100
+    },
+    {
+      "id": 3,
+      "name": "Item 3",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnN1Ih-hpZx8BHwuVGDztKdArSXT_zMcNHig&usqp=CAU",
+      "desc": "Description 3",
+      "price": 100
+    }
+  ]
+}

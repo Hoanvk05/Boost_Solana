@@ -1,0 +1,20 @@
+{
+    "name": "BOOST #01",
+    "symbol": "BOOST",
+    "description": "NFT #01 from BOOST Collection",
+    "image": "0.png",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "History"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "0.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}

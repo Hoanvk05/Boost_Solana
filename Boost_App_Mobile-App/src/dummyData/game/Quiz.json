@@ -1,0 +1,179 @@
+{
+  "Quiz": [
+    {
+      "id": 1,
+      "roomId": 1,
+      "questions": [
+        {
+          "question": "What’s the biggest planet in our solar system?",
+          "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+          "correct_option": "Jupiter"
+        },
+        {
+          "question": "What attraction in India is one of the famus in the world?",
+          "options": ["Chand Minar", "Taj Mahal", "Stadium"],
+          "correct_option": "Taj Mahal"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "roomId": 2,
+      "questions": [
+        {
+          "question": "What’s the biggest planet in our solar system?",
+          "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+          "correct_option": "Jupiter"
+        },
+        {
+          "question": "10 FISHES ARE IN THE TANK , 2 DROWN 4 SWIM AWAY AND 3 DIED HOW MANY ARE LEFT ?",
+          "options": ["10", "3", "0"],
+          "correct_option": "3"
+        },
+        {
+          "question": "A grandfather, two fathers and two sons went to the movie theater together and everyone bought one movie ticket each. How many tickets did they buy in total?",
+          "options": ["3", "2", "5", "1"],
+          "correct_option": "2"
+        },
+        {
+          "question": "WHAT ENGLISH WORD HAS THREE CONSECUTIVE DOUBLE LETTERS ?",
+          "options": ["shopkeeper", "door", "bookkeeper", "three"],
+          "correct_option": "three"
+        },
+        {
+          "question": "What is the only flying mammal?",
+          "options": [
+            "The bat",
+            "The flying squirrel",
+            "The bald eagle",
+            "The colugo"
+          ],
+          "correct_option": "The bat"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "roomId": 3,
+      "questions": [
+        {
+          "question": "What’s the biggest planet in our solar system?",
+          "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+          "correct_option": "Jupiter"
+        },
+        {
+          "question": "What attraction in India is one of the famus in the world?",
+          "options": ["Chand Minar", "Taj Mahal", "Stadium"],
+          "correct_option": "Taj Mahal"
+        },
+        {
+          "question": "What land animal can open its mouth the widest?",
+          "options": ["Alligator", "Crocodile", "Baboon", "Hippo"],
+          "correct_option": "Hippo"
+        },
+        {
+          "question": "What is the largest animal on Earth?",
+          "options": [
+            "The African elephant",
+            "The blue whale",
+            "The sperm whale",
+            "The giant squid"
+          ],
+          "correct_option": "The blue whale"
+        },
+        {
+          "question": "What is the only flying mammal?",
+          "options": [
+            "The bat",
+            "The flying squirrel",
+            "The bald eagle",
+            "The colugo"
+          ],
+          "correct_option": "The bat"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "roomId": 4,
+      "questions": [
+        {
+          "question": "What’s the biggest planet in our solar system?",
+          "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+          "correct_option": "Jupiter"
+        },
+        {
+          "question": "What attraction in India is one of the famus in the world?",
+          "options": ["Chand Minar", "Taj Mahal", "Stadium"],
+          "correct_option": "Taj Mahal"
+        },
+        {
+          "question": "What land animal can open its mouth the widest?",
+          "options": ["Alligator", "Crocodile", "Baboon", "Hippo"],
+          "correct_option": "Hippo"
+        },
+        {
+          "question": "What is the largest animal on Earth?",
+          "options": [
+            "The African elephant",
+            "The blue whale",
+            "The sperm whale",
+            "The giant squid"
+          ],
+          "correct_option": "The blue whale"
+        },
+        {
+          "question": "What is the only flying mammal?",
+          "options": [
+            "The bat",
+            "The flying squirrel",
+            "The bald eagle",
+            "The colugo"
+          ],
+          "correct_option": "The bat"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "roomId": 5,
+      "questions": [
+        {
+          "question": "What’s the biggest planet in our solar system?",
+          "options": ["Jupiter", "Saturn", "Neptune", "Mercury"],
+          "correct_option": "Jupiter"
+        },
+        {
+          "question": "What attraction in India is one of the famus in the world?",
+          "options": ["Chand Minar", "Taj Mahal", "Stadium"],
+          "correct_option": "Taj Mahal"
+        },
+        {
+          "question": "What land animal can open its mouth the widest?",
+          "options": ["Alligator", "Crocodile", "Baboon", "Hippo"],
+          "correct_option": "Hippo"
+        },
+        {
+          "question": "What is the largest animal on Earth?",
+          "options": [
+            "The African elephant",
+            "The blue whale",
+            "The sperm whale",
+            "The giant squid"
+          ],
+          "correct_option": "The blue whale"
+        },
+        {
+          "question": "What is the only flying mammal?",
+          "options": [
+            "The bat",
+            "The flying squirrel",
+            "The bald eagle",
+            "The colugo"
+          ],
+          "correct_option": "The bat"
+        }
+      ]
+    }
+  ]
+}

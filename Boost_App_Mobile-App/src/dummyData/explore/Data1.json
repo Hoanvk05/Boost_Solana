@@ -1,0 +1,32 @@
+{
+  "Categories": [
+    {
+      "id": 1,
+      "typeName": "Type 1"
+    },
+    {
+      "id": 2,
+      "typeName": "Type 2"
+    },
+    {
+      "id": 3,
+      "typeName": "Type 3"
+    },
+    {
+      "id": 4,
+      "typeName": "Type 4"
+    },
+    {
+      "id": 5,
+      "typeName": "Type 5"
+    },
+    {
+      "id": 6,
+      "typeName": "Type 6"
+    },
+    {
+      "id": 7,
+      "typeName": "Type 7"
+    }
+  ]
+}

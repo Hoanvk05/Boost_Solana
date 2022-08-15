@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "xuanthanh",
+      "password": "123456",
+      "isVerifyEmail": true,
+      "address": "Ha Noi city",
+      "avatar": "https://khoinguonsangtao.vn/wp-content/uploads/2022/05/anh-avatar-dep-ngau-hinh-dai-dien.jpg",
+      "fullname": "Nguyen Xuan Thanh"
+    },
+    {
+      "id": 2,
+      "username": "test",
+      "password": "123456",
+      "isVerifyEmail": true,
+      "address": "Ho Chi Minh city",
+      "avatar": "https://anhdephd.vn/wp-content/uploads/2022/03/anh-dai-dien-nu-deo-kinh-chat-600x600.jpg",
+      "fullname": "Do Hoan"
+    },
+    {
+      "id": 3,
+      "username": "sontung",
+      "password": "123456",
+      "isVerifyEmail": true,
+      "address": "Hai Phong city",
+      "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaL05I34grKqr_fUqyZF_66EgF-MKGdhiQXyO2FDzc124PQduW04PlSEy5F3XV97aGloE&usqp=CAU",
+      "fullname": "Son Tung"
+    }
+  ]
+}

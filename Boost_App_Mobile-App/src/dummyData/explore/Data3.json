@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "typename": "Math",
+    "subs": [
+      {"id": 1, "name": "Algebra", "color": "#D65DB1"},
+      {"id": 2, "name": "Geometry", "color": "#FF6F91"},
+      {"id": 3, "name": "Analysis", "color": "#FF9671"},
+      {"id": 4, "name": "Random", "color": "#FFAB0F"}
+    ]
+  },
+  {
+    "id": 3,
+    "typename": "Physics",
+    "subs": [
+      {"id": 1, "name": "Quantum mechanics", "color": "#D65DB1"},
+      {"id": 2, "name": "Relativity", "color": "#FF6F91"},
+      {"id": 3, "name": "Classical physics", "color": "#FF9671"},
+      {"id": 4, "name": "Random", "color": "#FFAB0F"}
+    ]
+  },
+  {
+    "id": 2,
+    "typename": "History",
+    "subs": [
+      {"id": 1, "name": "History of China", "color": "#D65DB1"},
+      {"id": 2, "name": "History of India", "color": "#FF6F91"},
+      {"id": 3, "name": "History of Europe", "color": "#FF9671"},
+      {"id": 4, "name": "Random", "color": "#FFAB0F"}
+    ]
+  }
+]

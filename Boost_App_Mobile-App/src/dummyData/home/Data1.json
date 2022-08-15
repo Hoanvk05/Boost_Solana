@@ -1,0 +1,29 @@
+{
+  "Home": [
+    {
+      "roomName": "Javascript 101 Basic of JS 1",
+      "roomID": 1,
+      "streaming": "LIVE"
+    },
+    {
+      "roomName": "Javascript 101 Basic of JS 2",
+      "roomID": 2,
+      "streaming": "LIVE"
+    },
+    {
+      "roomName": "Javascript 101 Basic of JS 3",
+      "roomID": 3,
+      "streaming": "LIVE"
+    },
+    {
+      "roomName": "Javascript 101 Basic of JS 4",
+      "roomID": 4,
+      "streaming": "LIVE"
+    },
+    {
+      "roomName": "Javascript 101 Basic of JS 5",
+      "roomID": 5,
+      "streaming": "LIVE"
+    }
+  ]
+}

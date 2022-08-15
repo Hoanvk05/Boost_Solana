@@ -1,0 +1,104 @@
+{
+  "Competitive": [
+    {
+      "id": 1,
+      "category": "Math",
+      "playType": "solo",
+      "roomName": "room Name 1",
+      "rewards": 1000,
+      "rankRequired": 1,
+      "players": [
+        {
+          "userId": 1,
+          "userName": "Xuan Thanh",
+          "team": "team 1",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg"
+        },
+        {
+          "userId": 2,
+          "userName": "Do hoan",
+          "team": "team 2",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category": "History",
+      "playType": "solo",
+      "roomName": "room Name 2",
+      "rewards": 2000,
+      "rankRequired": 1,
+      "players": [
+        {
+          "userId": 1,
+          "userName": "Xuan Thanh",
+          "team": "team 1",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg"
+        },
+        {
+          "userId": 2,
+          "userName": "Do hoan",
+          "team": "team 2",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category": "Math",
+      "playType": "team",
+      "roomName": "room Name 3",
+      "rewards": 1000,
+      "rankRequired": 1,
+      "players": [
+        {
+          "userId": 1,
+          "userName": "Xuan Thanh",
+          "team": "team 1",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg"
+        },
+        {
+          "userId": 2,
+          "userName": "Do hoan",
+          "team": "team 1",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg"
+        },
+        {
+          "userId": 3,
+          "userName": "Hoang Nam",
+          "team": "team 2",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg"
+        },
+        {
+          "userId": 4,
+          "userName": "Huu Toan",
+          "team": "team 2",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category": "Math",
+      "playType": "solo",
+      "roomName": "room Name 4",
+      "rewards": 7000,
+      "rankRequired": 1,
+      "players": [
+        {
+          "userId": 1,
+          "userName": "Xuan Thanh",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg",
+          "team": "team 1"
+        },
+        {
+          "userId": 2,
+          "userName": "Do hoan",
+          "avatar": "https://scr.vn/wp-content/uploads/2020/07/avt-%C4%91%E1%BA%B9p-cho-n%E1%BB%AF-819x1024.jpg",
+          "team": "team 2"
+        }
+      ]
+    }
+  ]
+}

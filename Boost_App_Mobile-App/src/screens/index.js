@@ -1,0 +1,10 @@
+export {default as Home} from './home';
+export {default as Explore} from './explore';
+export {default as Profile} from './profile';
+export {default as Wallet} from './wallet';
+export {default as Market} from './marketplace';
+export {default as Practice} from './explore/pages/practice';
+export {default as Competitive} from './explore/pages/competitive';
+export {default as Tournament} from './explore/pages/tournament';
+export {default as Login} from './login';
+export {default as Splash} from './splash';

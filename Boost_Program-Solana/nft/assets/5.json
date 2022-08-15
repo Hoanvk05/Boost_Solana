@@ -1,0 +1,20 @@
+{
+    "name": "BOOST #06",
+    "symbol": "BOOST",
+    "description": "NFT #06 from BOOST Collection",
+    "image": "5.png",
+    "attributes": [
+        {
+            "trait_type": "Category",
+            "value": "Physic"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "uri": "5.png",
+                "type": "image/png"
+            }
+        ]
+    }
+}
