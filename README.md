@@ -3,6 +3,6 @@ Boost hackathon project's GitHub
 
 Boost is a Solana-based platform that allows people to solve puzzles in order to learn new knowledge like cryptocurrencies and earn native tokens.
 
-Boost running both Mobile App (Android/IOS)
+Boost running both Mobile App (Android/IOS).
 
-Boost using dual token system for users to mint NFT & earn tokens 
+Boost using dual token system for users to mint NFTs & earn tokens.
