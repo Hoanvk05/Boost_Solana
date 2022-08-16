@@ -7,6 +7,9 @@ Boost running both Mobile App (Android/IOS).
 
 Boost using dual token system for users to mint NFTs & earn tokens.
 
+Boost's Demo Video:
+https://youtu.be/DEAj4xXEcCU
+
 # BOOST TOKEN & NFTs
 
 All testing in Devnet
