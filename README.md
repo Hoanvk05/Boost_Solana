@@ -1,14 +1,15 @@
 # Boost_Solana
-Boost Team - Summer Camp project's GitHub 
+Boost Team - Coding Camp project's GitHub 
 
-Boost is a Solana-based platform that allows people to solve puzzles in order to learn new knowledge like cryptocurrencies and earn native tokens.
+Boost is a Solana-based platform that allows people to learn new knowledge like web3, blockchain, cryptocurrencies and earn native tokens.
 
-Boost running both Mobile App (Android/IOS).
+Boost running Website
+https://boost-web3.vercel.app/
 
-Boost using dual token system for users to mint NFTs & earn tokens.
+Boost using token system for users to mint NFTs & earn tokens.
 
 Boost's Demo Video:
-https://youtu.be/DEAj4xXEcCU
+[https://youtu.be/DEAj4xXEcCU]
 
 # BOOST TOKEN & NFTs
 
